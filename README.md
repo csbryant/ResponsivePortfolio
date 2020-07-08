@@ -1,2 +1,4 @@
 # ResponsivePortfolio
-Responsive Portfolio Homework
+
+Background photo created by freepik - www.freepik.com
+
