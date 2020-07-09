@@ -1,10 +1,27 @@
 body {
-    background-color: lightgrey;
-    background-image: "./assets/images/background.jpg"
+    background-color: lightgray;
+    background-image: url("../Images/2500bg.jpg");
 }
 
 .cont {
     background-color: white;
+    opacity: 90%;
     margin: 30px auto;
     padding: 20px;
+}
+
+.profile {
+    float: left;
+    height: 200px;
+    width: 200px;
+    margin-right: 10px;}
+
+
+.main {
+    font-family: 'Open Sans Condensed', sans-serif;
+    }
+
+.nav {
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 22px;
 }
