@@ -9,8 +9,11 @@ BONUS added- Created a sticky footer via bootstrap
 All photos are personal photos to be used for this homework project only - Photos in Portfolio are placeholders for projects to hopefully be added in the future
 
 A few CSS elements added for personal taste:
+
 Bootstrap submit button in contact over-ruled to be pink in CSS
+
 Border Radius around content
+
 Icons for social media in contact
 
 # Credits
