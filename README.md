@@ -1,5 +1,8 @@
 ## ResponsivePortfolio
 
+<a href="https://csbryant.github.io/ResponsivePortfolio/">Link to Site</a>
+<img src="Assets/Images/screenshot.png" />
+
 # Notes
 
 Small Screen set to 640 px according to project asset photo size
