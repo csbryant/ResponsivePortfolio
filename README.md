@@ -1,6 +1,8 @@
 ## ResponsivePortfolio
 
 <a href="https://csbryant.github.io/ResponsivePortfolio/">Link to Site</a>
+<br>
+<br>
 <img src="https://i.ibb.co/QX23hQJ/Screen-Shot.png" />
 
 # Notes
