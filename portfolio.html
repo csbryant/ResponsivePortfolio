@@ -4,75 +4,81 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Chris Bryant - Portfolio</title>
-    <link href="https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:wght@300&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="./Assets/CSS/style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Work+Sans:wght@200;300;400;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="./Assets/CSS/port.css">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
 
 </head>
 
 <body>
 
-  <header class="top text">
-    <h1>Chris Bryant</h1>
-  </header>
+  <nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <a class="navbar-brand" href="index.html">Chris Bryant</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+      <div class="navbar-nav">
+        <a class="nav-item nav-link" href="index.html">About <span class="sr-only">(current)</span></a>
+        <a class="nav-item nav-link active" href="#">Portfolio</a>
+        <a class="nav-item nav-link" href="contact.html">Contact</a>
+        <a class="nav-item nav-link" href="https://docs.google.com/document/d/1az-wSV1vJKCTGj-gub7cWPenTlD4eTRo7FjFbrteFaU/edit?usp=sharing">Resume</a>
+      </div>
+    </div>
+  </nav>
 
-  <ul class="nav justify-content-end bg-white text">
-    <li class="nav-item">
-      <a class="nav-link navoption" href="index.html">About</a>
-    </li>
-    <li class="nav-item active">
-      <a class="nav-link navactive" href="#">Portfolio <span class="sr-only">(current)</span></a>
-    </li>
-    <li class="nav-item">
-      <a class="nav-link navoption" href="contact.html">Contact</a>
-    </li>
-    <li class="nav-item">
-      <a class="nav-link navoption" href="https://docs.google.com/document/d/1az-wSV1vJKCTGj-gub7cWPenTlD4eTRo7FjFbrteFaU/edit?usp=sharing">Resume</a>
-    </li>
-  </ul>
-  <div class="headbottom"></div>
-
-  <div class="container cont text port">
-    <h1>Portfolio</h1>
-    <hr>
-      <div class="row">
-        <div class="col-sm d-flex justify-content-center">
-            <a href="https://github.com/csbryant/ArtistHop">
-            <img
-            src="Assets/Images/artisthop.jpg"
-            class="portphoto"
-            alt="A photo of ArtistHop Project."
-          />
-      </a>
-        <h2>Artist Hop</h2>
+    <div class="container">
+        <div class="row">
+          <div class="col-md">
+            <div class="cs-grid-item"><a class="card border-0 box-shadow" href="https://github.com/csbryant/ArtistHop"><img class="card-img-top" src="/Assets/Images/artisthop.jpg" alt="Artist Hop"/>
+                <div class="card-body text-center">
+                  <h3 class="h5 nav-heading">Artist Hop</h3>
+                  <p class="text-muted">Music Reference Site</p>
+                </div></a></div>
+          </div>
+          <div class="col-md">
+            <div class="cs-grid-item"><a class="card border-0 box-shadow" href="https://github.com/csbryant/VoterCheatSheet"><img class="card-img-top" src="/Assets/Images/voter.jpg" alt="Voter Cheat Sheet"/>
+                <div class="card-body text-center">
+                  <h3 class="h5 nav-heading">Voter Cheat Sheet</h3>
+                  <p class="text-muted">Voting Data App</p>
+                </div></a></div>
+          </div>
+          <div class="col-md">
+            <div class="cs-grid-item"><a class="card border-0 box-shadow" href="https://github.com/csbryant/Scheduler"><img class="card-img-top" src="/Assets/Images/Scheduleclip.png" alt="Scheduler"/>
+                <div class="card-body text-center">
+                  <h3 class="h5 nav-heading">Scheduler</h3>
+                  <p class="text-muted">Daily Scheduling App</p>
+                </div></a></div>
+          </div>
         </div>
-
-        <div class="col-sm d-flex justify-content-center">
-          <a href="https://github.com/csbryant/Scheduler">
-          <img
-          src="Assets/Images/Scheduleclip.png"
-          class="portphoto"
-          alt="A photo of Scheduler Project."
-        />
-      </a>
-        <h2>Scheduler</h2>
-        </div>
+        <div class="row">
+            <div class="col-md">
+              <div class="cs-grid-item"><a class="card border-0 box-shadow" href="https://github.com/csbryant/ReadMeGenerator"><img class="card-img-top" src="/Assets/Images/readmegenclip.png" alt="Read Me Generator"/>
+                  <div class="card-body text-center">
+                    <h3 class="h5 nav-heading">Read Me Generator</h3>
+                    <p class="text-muted">Read Me Node CLI</p>
+                  </div></a></div>
+            </div>
+            <div class="col-md">
+              <div class="cs-grid-item"><a class="card border-0 box-shadow" href="https://github.com/csbryant/Burger"><img class="card-img-top" src="/Assets/Images/burger.jpg" alt="Burger App"/>
+                  <div class="card-body text-center">
+                    <h3 class="h5 nav-heading">Burger!</h3>
+                    <p class="text-muted">A retro themed burger-eating app</p>
+                  </div></a></div>
+            </div>
+            <div class="col-md">
+              <div class="cs-grid-item"></div><a class="card border-0 box-shadow" href="https://github.com/csbryant/TeamProfileGen"><img class="card-img-top" src="/Assets/Images/team.jpg" alt="Team Profile Gen"/>
+                  <div class="card-body text-center">
+                    <h3 class="h5 nav-heading">Team Profile Generator</h3>
+                    <p class="text-muted">A node CLI that creates HTML</p>
+                  </div></a></div>
+            </div>
+          </div>
       </div>
 
-      <div class="row">
-        <div class="col-sm d-flex justify-content-center">
-          <a href="https://github.com/csbryant/ReadMeGenerator">
-          <img
-          src="Assets/Images/readmegenclip.png"
-          class="portphoto"
-          alt="A photo of ReadMe Generator Project."
-        />
-      </a>
-        <h2>Read Me Generator</h2>
-        </div>
-        <div class="col-sm d-flex justify-content-center"></div>
-      </div>
-  </div>
+      
+    <br><br><br><br>
+
 
   <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
   <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
