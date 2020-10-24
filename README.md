@@ -3,7 +3,10 @@
 <a href="https://csbryant.github.io/ResponsivePortfolio/">Link to Site</a>
 <br>
 <br>
-<img src="https://i.ibb.co/QX23hQJ/Screen-Shot.png" />
+<img src="https://github.com/csbryant/ResponsivePortfolio/blob/master/Assets/Images/Screen%20Shot%202020-10-23%20at%207.51.17%20PM.png?raw=true" />
+
+
+This is a responsive portfolio of all of my coding work so far!
 
 # Notes
 
@@ -20,6 +23,9 @@ Bootstrap submit button in contact over-ruled to be pink in CSS
 Border Radius around content
 
 Icons for social media in contact
+
+
+<img src="https://github.com/csbryant/ResponsivePortfolio/blob/master/Assets/Images/Screen%20Shot%202020-10-23%20at%207.50.44%20PM.png?raw=true" />
 
 # Credits
 
