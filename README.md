@@ -25,7 +25,7 @@ Border Radius around content
 Icons for social media in contact
 
 
-<img src="https://github.com/csbryant/ReactPortfolio/blob/main/public/Assets/Images/Screenshot2.png?raw=true" />
+<img src="https://github.com/csbryant/ResponsivePortfolio/blob/master/Assets/Images/Screen%20Shot%202020-10-23%20at%207.50.44%20PM.png?raw=true" />
 
 # Credits
 
