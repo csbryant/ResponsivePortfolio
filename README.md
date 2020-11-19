@@ -3,7 +3,7 @@
 <a href="https://csbryant.github.io/ResponsivePortfolio/">Link to Site</a>
 <br>
 <br>
-<img src="https://github.com/csbryant/ResponsivePortfolio/blob/master/Assets/Images/Screen%20Shot%202020-10-23%20at%207.51.17%20PM.png?raw=true" />
+<img src="https://github.com/csbryant/ReactPortfolio/blob/main/public/Assets/Images/Screenshot1.png?raw=true" />
 
 
 This is a responsive portfolio of all of my coding work so far!
@@ -25,11 +25,8 @@ Border Radius around content
 Icons for social media in contact
 
 
-<img src="https://github.com/csbryant/ResponsivePortfolio/blob/master/Assets/Images/Screen%20Shot%202020-10-23%20at%207.50.44%20PM.png?raw=true" />
+<img src="https://github.com/csbryant/ReactPortfolio/blob/main/public/Assets/Images/Screenshot2.png?raw=true" />
 
 # Credits
-
-Background photo created by freepik - www.freepik.com
-(edited to be pink for project)
 
 Social Media Icons (edited for project to be pink) provided by iconfinder / Neil Hainsworth and are free commercial use
